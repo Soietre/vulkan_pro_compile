@@ -1,0 +1,7 @@
+config :
+use the opengl_CH's assimp file: include, lib, dll to cmake and compile.
+especially the assimp.lib file and assimp.dll file.
+
+second config the vulkan SDK.exe fisrt, refine the gpu driver to new to ensure the full use of gpu //
+third take full use of git to manage the code. 
+finally you can exstract the compiled libaray to cofig a independent projrct by you own.
