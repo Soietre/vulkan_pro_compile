@@ -7,3 +7,5 @@ third take full use of git to manage the code.
 finally you can exstract the compiled libaray to cofig a independent projrct by you own.
 
 when use it in xcode must config metal vulkan sdk, 
+so  write down the record of every prohject. 
+in computeshader project get the edge . sharpen . emboss effect. so filering corp occured in compute stage. undetermined.
