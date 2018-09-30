@@ -9,3 +9,4 @@ finally you can exstract the compiled libaray to cofig a independent projrct by 
 when use it in xcode must config metal vulkan sdk, 
 so  write down the record of every prohject. 
 in computeshader project get the edge . sharpen . emboss effect. so filering corp occured in compute stage. undetermined.
+http://webdiis.unizar.es/~raulmur/orbslam/  the website is for series of orbslam article 
